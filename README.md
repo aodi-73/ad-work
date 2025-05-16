@@ -1,2 +1,2 @@
 # ad-work
-Data in the paper
+The relevant datasets in Figs. 5-8
